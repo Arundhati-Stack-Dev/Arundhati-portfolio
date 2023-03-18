@@ -1,6 +1,7 @@
 import React from 'react'
 import { FaArrowDown } from 'react-icons/fa'
 import avatarme from '../assests/avatarme.PNG'
+import HiResume from '../assests/HiResume.pdf'
 
 import SocialLinks from '../SocialLinks'
 
@@ -46,7 +47,7 @@ return (
        className='w-60 h-60  md:w-72 md:h-72 object-cover object-top bg-pink-600 rounded-xl pt-5  shadow-lg'
        />
       <a
-       href='/HiResume.pdf'
+       href={HiResume}
        download={true}
         className='flex items-center justify-center mt-10 bg-gradient-to-r from-pink-600 to-teal-500 text-white py-2 rounded-lg'>
         Resume
