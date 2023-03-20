@@ -3,6 +3,7 @@ import { FaArrowDown } from 'react-icons/fa'
 import avatarme from '../assests/avatarme.PNG'
 import HiResume from '../assests/HiResume.pdf'
 
+
 import SocialLinks from '../SocialLinks'
 
 const Hero = () => {
@@ -20,9 +21,9 @@ return (
   <h2 className='text-5xl text-pink-500 uppercase font-bold'>Arundhati Sahani</h2>
   <h3 className='py-3 text-2xl'>Software Engineer</h3>
   <p className='max-w-xl font-light text-gray-500'>
-    Hello <span className='animate-pulse text-3xl'>👋</span>,
+      Hello <span className='animate-pulse text-3xl'>👋</span>,
     welcome to my site.
-    I am a software engineer. I love to work on Web dev, I mostly worked on reactJs projects.
+    I am a software engineer. I love to work on Web dev, I mostly worked on ReactJs projects.
   </p>
 
   {/* social icons */}

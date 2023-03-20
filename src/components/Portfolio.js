@@ -47,7 +47,7 @@ const Portfolio = () => {
 
   return (
     <Section
-    title='Portfolio'
+    title='Projects'
     subtitle='These are the projects that I have worked on.
      Some of them I have worked before I gained some experience. 
      So go gentle on them.'
