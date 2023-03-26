@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Arundhati-portfolio/static/css/main.421b237f.css",
-    "main.js": "/Arundhati-portfolio/static/js/main.552c9174.js",
+    "main.js": "/Arundhati-portfolio/static/js/main.b39e04b3.js",
     "static/media/p3.jpg": "/Arundhati-portfolio/static/media/p3.93cbe0b2ddbce3a906ba.jpg",
     "static/media/p4.jpg": "/Arundhati-portfolio/static/media/p4.0459ebc2624f77cd9828.jpg",
     "static/media/mobile.png": "/Arundhati-portfolio/static/media/mobile.c666d7f1a111a1aa8be5.png",
-    "static/media/HiResume.pdf": "/Arundhati-portfolio/static/media/HiResume.2fb1711acb795c645a75.pdf",
     "static/media/p5.jpg": "/Arundhati-portfolio/static/media/p5.3c8a0cbfedee6e3026ba.jpg",
     "static/media/p6.jpg": "/Arundhati-portfolio/static/media/p6.9ef4e185238545d93776.jpg",
     "static/media/avatarme.PNG": "/Arundhati-portfolio/static/media/avatarme.6898edb806285d7d190f.PNG",
+    "static/media/HiResume.pdf": "/Arundhati-portfolio/static/media/HiResume.33a8fe3de7db3addfaaf.pdf",
     "index.html": "/Arundhati-portfolio/index.html",
     "main.421b237f.css.map": "/Arundhati-portfolio/static/css/main.421b237f.css.map",
-    "main.552c9174.js.map": "/Arundhati-portfolio/static/js/main.552c9174.js.map"
+    "main.b39e04b3.js.map": "/Arundhati-portfolio/static/js/main.b39e04b3.js.map"
   },
   "entrypoints": [
     "static/css/main.421b237f.css",
-    "static/js/main.552c9174.js"
+    "static/js/main.b39e04b3.js"
   ]
 }
